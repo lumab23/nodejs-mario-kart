@@ -163,7 +163,7 @@ async function askPlayAgain() {
   let playAgain = true;
 
   while (playAgain) {
-    players.forEach((player) => (player.points = 0)); // reset points
+    players.forEach((player) => (player.points = 0)); 
     const selectedPlayers = await getPlayerChoice(players);
     console.log(`🏁🚨 Corrida entre ${selectedPlayers[0].name} e ${selectedPlayers[1].name} começa!`);
 
