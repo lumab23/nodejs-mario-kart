@@ -1,4 +1,4 @@
-<p>Este projeto é uma simulação de corrida baseada no universo de Mario Kart, desenvolvido como parte da formação em Node.js da <a href="https://github.com/digitalinnovationone/formacao-nodejs.git">Digital Innovation One (DIO)</a>. Foi criado inicialmente para demonstrar conceitos fundamentais de JavaScript e Node.js e foi modificado para adicionar novas funcionalidades e melhorias na jogabilidade.</p>
+<p>Este projeto é uma simulação de corrida baseada no universo de Mario Kart, desenvolvido como parte da formação em Node.js da <a href="https://github.com/digitalinnovationone/formacao-nodejs.git">Digital Innovation One (DIO)</a>.</p>
 
 <h2>Como funciona?</h2>
 <p>O jogo consiste em uma corrida entre dois jogadores, cada um com atributos específicos (velocidade, manobrabilidade e poder). A cada rodada, um tipo de pista (reta, curva ou confronto) é sorteado, e os jogadores competem com base nos atributos mais adequados para o tipo de pista. O jogador com mais pontos ao final da corrida é declarado vencedor.</p>
