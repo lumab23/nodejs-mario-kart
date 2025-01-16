@@ -5,7 +5,7 @@
 
 <h2>Alterações realizadas</h2>
 <ul>
-    <li><strong>Interface de escolha de jogador:</strong> Foi implementado um sistema para que o usuário escolha seu personagem antes de iniciar a corrida.</li>
+    <li><strong>Escolha de jogador:</strong> Foi implementado um sistema para que o usuário escolha seu personagem antes de iniciar a corrida.</li>
     <li><strong>Adicionado oponente aleatório:</strong> Após a escolha do jogador, um oponente aleatório é selecionado da lista de personagens restantes.</li>
     <li><strong>Novo sistema de turbo:</strong> No tipo de pista "Confronto", há uma chance aleatória de o vencedor ganhar um ponto extra como bônus de turbo.</li>
     <li><strong>Reset de pontos:</strong> Os pontos dos jogadores são redefinidos ao iniciar uma nova corrida.</li>
